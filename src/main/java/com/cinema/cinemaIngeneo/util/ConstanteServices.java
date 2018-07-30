@@ -16,9 +16,9 @@ public final class ConstanteServices {
 	
 	//contantes valors min y max por filas y sillas
 	public static final int MIN_FILAS = 3;
-	public static final int MAX_FILAS = 3;
+	public static final int MAX_FILAS = 27;
 	public static final int MIN_SILLAS = 3;
-	public static final int MAX_SILLAS = 3;
+	public static final int MAX_SILLAS = 10;
 	
 	//contantes de error del servicio de salas
 	public static final String ERROR_TAMANO_NUMERO_FILAS="Verificar que el numero de Filas este 3 y 27";
